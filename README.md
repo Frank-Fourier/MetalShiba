@@ -1,6 +1,15 @@
 # MetalShiba
 Metal Shiba is the first-of-its-kind digital comic experience designed for the blockchain community. A piece of art.
 
+Website: metalshiba.art
+
+NFT Marketplace
+Staking pools
+Dashboard
+Yield Farming
+P2E game
+Comic Book
+
 This Smart Contract has several innovations:
 - it is possibile to swap BNB for tokens by interacting with the contract;
 - a part of the fees collected from the smart contract are stored to pay out referral rewards;
